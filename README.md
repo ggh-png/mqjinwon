@@ -15,25 +15,25 @@
 <img src="https://img.shields.io/badge/CasADi-EE4C2C?style=for-the-badge&logo=&logoColor=white"/>
 </p>
 
-#### 👨‍🔧 Introduction
+### 👨‍🔧 Introduction
 
 > I have been studying robotics for five years, specializing in **motion planning** and **collision avoidance** for quadruped robots. My research focuses on **trajectory optimization** and **reinforcement learning**. Additionally, I am keenly interested in the overall framework for robots, including SLAM, control, and more. I welcome anyone who wishes to discuss these topics with me.
 
 <br/>
 
-#### 👨‍🎓 Education
+### 👨‍🎓 Education
 
 > 🔹 **M.S in Robotics Program** at [**SGVR**](https://sgvr.kaist.ac.kr/) from KAIST, Daejeon, South Korea (2021.3 ~ 2023.2)  
 > 🔹 **B.S in Robotics** from Kwangwoon University, Seoul, South Korea (2015.3 ~ 2021.2)
 
 <br/>
 
-#### 🔍 Research Interest
+### 🔍 Research Interest
 
-> 🔸 **Motion Planning**
-> 🔸 **Reinforcement Learning**
-> 🔸 **Collision Avoidance**
-> 🔸 **Quadruped Robot**
+> 🔸 **Motion Planning**  
+> 🔸 **Reinforcement Learning**  
+> 🔸 **Collision Avoidance**  
+> 🔸 **Quadruped Robot**  
 > 🔸 **Autonomous Driving**
 
 <br/>
@@ -53,13 +53,5 @@ Feel free to contact me! <br/>
 <a href="https://www.youtube.com/@robotminsu">
   <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool" alt="Youtube badge">
 </a>
-
----
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mqjinwon&theme=default" alt="Top Langs" />  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqjinwon&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=mqjinwon&theme=default" alt="GitHub stats" />
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
